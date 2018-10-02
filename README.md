@@ -1,2 +1,2 @@
 # Hello-World
-Write a hello world program
+Hey there, i'm cold and sleepy. I like c# though :v
